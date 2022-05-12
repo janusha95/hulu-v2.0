@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import { ThumbsUpIcon, ThumbUpIcon } from "@heroicons/react/outline";
+import { ThumbUpIcon } from "@heroicons/react/outline";
 import { forwardRef } from "react";
 
 const Thumbnail = forwardRef(({ result }, ref) => {
